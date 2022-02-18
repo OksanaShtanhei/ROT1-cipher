@@ -1,8 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './wordcounter/App';
-// import App from './shoppingcart/App'
 import App from './App'
 
 
